@@ -1,6 +1,9 @@
 {
     "name": "com.ligofff.lgf-unity-naming-case-changer.Editor",
-    "references": [],
+    "rootNamespace": "",
+    "references": [
+        "GUID:55faae0581499ec43b7352ce6c43ffde"
+    ],
     "includePlatforms": [
         "Editor"
     ],
