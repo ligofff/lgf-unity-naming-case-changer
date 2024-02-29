@@ -1,0 +1,11 @@
+{
+  "name": "Unity.com.ligofff.lgf-unity-naming-case-changer.Editor.Tests",
+  "references": [
+    "Unity.com.ligofff.lgf-unity-naming-case-changer"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": []
+}
